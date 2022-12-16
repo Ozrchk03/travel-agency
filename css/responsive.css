@@ -1,0 +1,459 @@
+@media (max-width: 420px){
+    .profile{
+        display: none;
+    }
+    .content-align{
+        width: 300px;
+    }
+    .letter{
+        height: 49px;
+    }
+    .title-company{
+        font-size: 0.9em;
+    }
+    .travel-header{
+        margin: 85% 0 6% 0;
+    }
+
+    .text-info{
+        text-align: center;
+        width: 100%;
+        font-size: 10px;
+    }
+
+    .social-media{
+        display: flex;
+        position: absolute;
+        left: 120px;
+        bottom: 0;
+        height: 85px;
+
+    }
+    .info-banner{
+        margin-top: 43%;
+    }
+
+    .inst{
+        margin-right: 20px;
+    }
+
+    .ac-img{
+        height: 365px;
+        border-radius: 40px;
+    }
+
+    .aboutHint{
+        font-size: 10px;
+        width: 95px;
+        padding: 10px 24px;
+        border-radius: 16px;
+    }
+
+    .aboutHint span{
+        font-size: 20px;
+
+    }
+
+    #aboutHint-1{
+        left: 240px;
+        top: 55px;
+    }
+
+    #aboutHint-2{
+        left: -32px;
+        top: 155px;
+    }
+
+    #aboutHint-3{
+        left: 240px;
+        top: 250px;
+    }
+
+    .info{
+        width: 100%;
+        margin-left: 0;
+    }
+    .text{
+        font-size: 13px;
+    }
+
+    .company{
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 150px;
+    }
+
+    #aboutCompany .info .header{
+        position: absolute;
+        top: -454px;
+    }
+
+
+    .menu-footer{
+        display: none;
+    }
+
+    .container{
+        width: 300px;
+        /*margin: 25px auto;*/
+        justify-content: space-between;
+    }
+
+    .menu-btn img {
+        width: 28px;
+    }
+
+    #menu{
+        font-size: 10px;
+    }
+
+
+    .bi-search {
+        width: 15px;
+        height: 15px;
+    }
+    #srch{
+        width: 160px;
+        height: 21px;
+    }
+
+
+    .search-input::-webkit-input-placeholder {
+        font-size: 11px;
+    }
+
+    .search-input:-moz-placeholder {
+        font-size: 11px;
+
+    }
+
+    .search-input::-moz-placeholder {
+        font-size: 11px;
+
+    }
+
+    .search-input:-ms-input-placeholder {
+        font-size: 11px;
+    }
+
+    #search-img{
+        margin: 3px 0px 0 5px;
+    }
+
+    .search{
+        margin: 0;
+    }
+    .header{
+        font-size: 2em;
+    }
+
+    .choose-tour {
+        margin: 15px 0 0px 0px;
+    }
+    .input-title{
+        font-size: 12px;
+        margin-right: 10px;
+    }
+
+    #input-clear-filter{
+        margin-left: 35px;
+        position: relative;
+        right: 0;
+        margin-right: 0;
+    }
+    ul.input-type-list, .slider-container{
+        top: 195px;
+        left: 30px;
+    }
+
+    ul.search-input{
+        width: 152px;
+    }
+
+    .search-input li div, .search-input li{
+        width: 118px;
+    }
+
+    #prev-cards {
+        position: absolute;
+        left: 106px;
+        bottom: -60px;
+    }
+    #next-cards{
+        position: absolute;
+        right: 106px;
+        bottom: -60px;
+    }
+
+    .switch-button{
+        margin: 18px 0;
+    }
+
+    .bi-instagram, .bi-facebook{
+        font-size: 2em;
+    }
+
+    .arrow-btn-review {
+        top: -49px;
+
+    }
+
+    .btn-review{
+        font-size: 12px;
+        width: 175px;
+        height: 40px;
+    }
+
+    .contact-content{
+        /*font-size: 11px;*/
+        display: block;
+        margin: 0;
+    }
+
+    .contacts{
+        height:620px;
+    }
+
+    .ukr-number {
+        position: relative;
+        width: 100%;
+
+    }
+
+    .num-title{
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 15px;
+
+    }
+    .ukrFlag-img{
+        margin-right: 0;
+    }
+
+    .ukrFlag{
+        justify-content: center;
+        /*margin-bottom: 40px;*/
+    }
+
+    .sm-content{
+        justify-content: center;
+    }
+
+    .number{
+        padding: 2px 8px;
+    }
+
+    .padding-num{
+        margin: 10px 0;
+    }
+
+    .email-content{
+        text-align: center;
+    }
+
+    #page-up{
+        width: 32px;
+        height: 32px;
+    }
+
+    .footer-title{
+        font-size: .9em;
+    }
+
+    .menu-content, .address-content, .workTime-content{
+        line-height: 20px;
+        font-size: 12px;
+        margin-bottom: 30px;
+        margin-top: 15px;
+    }
+
+    #footer-travel{
+        position: absolute;
+        top: 35px;
+        font-weight: 600;
+    }
+
+    .footer-content{
+        padding: 90px 0;
+        display: block;
+    }
+
+    .page-up-arrow{
+        position: absolute;
+        top: 25px;
+        right: 0;
+    }
+
+    .header-menu.active{
+        height: 53px;
+    }
+
+    .country-cards{
+        width: 300px;
+    }
+
+    .country-card{
+        margin: 20px 0;
+    }
+
+    #country-photo-1, #country-photo-2, #country-photo-3, #country-photo-4, #country-photo-5, #country-photo-6, #country-photo-7{
+        width: 150px;
+    }
+
+    .country-photo-container{
+        height: 735px;
+    }
+
+    #country-photo-2{
+        top: 170px;
+    }
+
+    #country-photo-3{
+        left: 164px;
+    }
+
+    #country-photo-4{
+        top: 117px;
+        left: 164px;
+    }
+
+    #country-photo-5{
+        top: 289px;
+        left: 164px;
+    }
+
+    #country-photo-6{
+        top: 422px;
+        left: 0;
+    }
+
+    #country-photo-7{
+        top: 429px;
+        left: 164px;
+    }
+
+    .full_card{
+        width: 300px;
+        height: 880px;
+    }
+
+    .full-card-img{
+        justify-content: center;
+    }
+
+    #card-img{
+        width: 150px;
+    }
+
+    .full-card-info{
+        line-height: 24px;
+        font-size: 10px;
+        margin: 15px 0;
+        width: 225px;
+    }
+
+    #card-description {
+         width: 200px;
+        line-height: 11px;
+        margin-left: 0px;
+        margin-top: 0px;
+        font-size: 8px;
+    }
+
+    .full-card-info div span {
+        margin-left: 4px;
+    }
+
+    .btn-book-tour{
+        top: 118px;
+        left: 13px;
+    }
+
+    #tour-description{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sb-content{
+        margin-top: 170px;
+    }
+
+    .successful-booking-alert{
+        width: 300px;
+        height: 880px;
+    }
+
+    .country-photo img{
+        width: 280px;
+    }
+
+
+
+
+    #profile-line{
+        display: none;
+    }
+
+    .profile-info{
+        flex-direction: column;
+    }
+
+    .user-personal-info, .ordered-tours, .tour-line{
+        width: 100%;
+    }
+
+    #profile-avatar{
+        display: flex;
+        justify-content: center;
+    }
+
+    #profile-avatar-img{
+        width: 225px;
+        height: 225px;
+    }
+
+    .cancel-tour-alert{
+        width: 300px;
+        height: 200px;
+        font-size: 15px;
+    }
+
+    .form{
+        width: 300px;
+    }
+
+    .sign{
+        font-size: 20px;
+    }
+
+    .input-text{
+        width: 300px;
+        height: 55px;
+    }
+
+    .password-signIn-container{
+        flex-direction: column;
+    }
+
+    .btn-show-hide-password{
+        top: 49px;
+        right: 32px;
+    }
+
+    .btn-action{
+        width: 300px;
+        height: 55px;
+        font-size: 15px;
+    }
+
+    .input-section{
+        flex-direction: column;
+    }
+
+    .close-img{
+        width: 23px;
+    }
+
+
+    .
+}
